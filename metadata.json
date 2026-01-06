@@ -1,0 +1,5 @@
+{
+  "name": "SwiftConvert - Modern File Tools",
+  "description": "A high-performance, private file conversion tool for Images, PDFs, and Word documents. All processing is done locally in your browser.",
+  "requestFramePermissions": []
+}
